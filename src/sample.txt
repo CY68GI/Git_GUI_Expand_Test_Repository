@@ -1,0 +1,4 @@
+Git GUI Expand test source
+
+Line 2
+Line 3
